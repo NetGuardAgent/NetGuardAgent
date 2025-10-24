@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Willkommen bei NetGuardAgent
 
-<!--
-**NetGuardAgent/NetGuardAgent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! Ich bin **NetGuardAgent** – Entwickler und Open-Source-Enthusiast.  
+Ich arbeite aktuell an spannenden Projekten im Bereich **Softwareentwicklung, Automatisierung und Sharing Economy**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Aktuelle Projekte
+- 🚀 Entwicklung der [Verleih-Oase – Sharing Platform](https://github.com/ORGNAME/REPO/issues/842)
+- ⚙️ Automatisierte Tools zur Prozessoptimierung
+- 🔒 Projekte rund um Netzwerksicherheit und API-Integration
+
+---
+
+### 💬 Letzte Aktivität
+Hier sind meine neuesten GitHub-Aktivitäten:
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+*(Dieses Profil aktualisiert sich automatisch alle 12 Stunden.)*
+
+---
+
+### 🌐 Finde mich auch auf
+- [GitHub](https://github.com/NetGuardAgent)
+- [LinkedIn](https://linkedin.com) _(optional hinzufügen)_
